@@ -8,3 +8,7 @@ heyy, I am interested in
 >>>>>Tailwindcss
 >>>>>DSA
 >>>>>Javascript
+
+#skills
+>>>>>fast learner
+>>>>>critical thinker
